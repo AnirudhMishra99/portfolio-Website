@@ -299,11 +299,20 @@ img {
 .skills__js {
   width: 65%;
 }
+.skills__java {
+  width: 70%;
+}
+.skills__dsa {
+  width: 65%;
+}
 .skills__ux {
   width: 85%;
 }
 .skills__img {
   border-radius: 0.5rem;
+  height: 400px;
+  width: 900px;
+  margin-top: 40px;
 }
 
 /* ===== WORK =====*/
@@ -339,7 +348,7 @@ img {
   outline: none;
   font-size: var(--normal-font-size);
   cursor: pointer;
-  margin-left: auto;
+  margin-left:140px;
 }
 
 /* ===== FOOTER =====*/
